@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zoHC
-- 👀 I’m interested in coding, cybersecurity, iced vanilla latte's, family and the outdoors.
+- 👀 I’m interested in coding, cybersecurity, iced vanilla latte's, family and the outdoors
 - 🌱 I’m currently learning various things, sorry to be so vague hehe
 - 💞️ I’m currently collaborating on a project with a nonprofit organization
 - 📫 How to reach me z0hc@proton.me
