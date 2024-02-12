@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm @zoHC or Jason, a tech enthusiast with a passion for coding, cybersecurity, and iced vanilla lattes. Currently learning and collaborating on a meaningful project with a nonprofit organization.
+I'm @zoHC, a tech enthusiast with a passion for coding, cybersecurity, and iced vanilla lattes. Currently learning and collaborating on a meaningful project with a nonprofit organization.
 
 ## About Me
 - Pronouns: he/him | chip/chipself
